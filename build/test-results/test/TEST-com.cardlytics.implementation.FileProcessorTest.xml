@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cardlytics.implementation.FileProcessorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-06-14T23:32:04" hostname="1178578-C02PW9L3G8WP" time="0.048">
+  <properties/>
+  <testcase name="testValidFile" classname="com.cardlytics.implementation.FileProcessorTest" time="0.008"/>
+  <testcase name="testMultipleNumbers" classname="com.cardlytics.implementation.FileProcessorTest" time="0.009"/>
+  <testcase name="testFloatingNumber" classname="com.cardlytics.implementation.FileProcessorTest" time="0.005"/>
+  <testcase name="testWithSignValueInFile" classname="com.cardlytics.implementation.FileProcessorTest" time="0.005"/>
+  <testcase name="testNonNumber" classname="com.cardlytics.implementation.FileProcessorTest" time="0.005"/>
+  <testcase name="testNotPrimeNumber" classname="com.cardlytics.implementation.FileProcessorTest" time="0.006"/>
+  <testcase name="testLargeNumber" classname="com.cardlytics.implementation.FileProcessorTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

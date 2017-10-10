@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cardlytics.implementation.PrimeFactorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-06-14T23:32:04" hostname="1178578-C02PW9L3G8WP" time="0.001">
+  <properties/>
+  <testcase name="testInValidNumber" classname="com.cardlytics.implementation.PrimeFactorTest" time="0.0"/>
+  <testcase name="testPrimeFactorDisplay" classname="com.cardlytics.implementation.PrimeFactorTest" time="0.0"/>
+  <testcase name="testValidNumber" classname="com.cardlytics.implementation.PrimeFactorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
